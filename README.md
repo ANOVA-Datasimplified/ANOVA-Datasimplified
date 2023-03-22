@@ -19,7 +19,7 @@ Get involved in our projects and work on real-world data science problems.
 Contribute to our Github repository by submitting pull requests, sharing code and data, and collaborating with other members of the community.
 
 ### Contact Us
-If you have any questions or comments, please feel free to contact us at [email address]. We're always happy to hear from students who are passionate about data science!
+If you have any questions or comments, please feel free to contact us at anovaclub@gmail.com. We're always happy to hear from students who are passionate about data science!
 
 ### Contributors
 We would like to thank all of our contributors for their hard work and dedication to our club. This Github repository is a collaborative effort, and we couldn't do it without you!
