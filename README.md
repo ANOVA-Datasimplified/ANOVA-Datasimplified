@@ -1,4 +1,4 @@
-> ### Data Science Student Club
+> # Data Science Student Club
 
 Welcome to the Github repository for the Data Science Student Club! This is a community of students who are passionate about data science and want to learn more about this exciting field.
 
